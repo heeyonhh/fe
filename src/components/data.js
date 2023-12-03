@@ -70,10 +70,10 @@ export const projectData = [
         logo: <p>My<br />Weather</p>,
         type: "Project 2 / Vue3 Sass",
         title: "Vue3 & Sass 날씨 앱",
-        info: [ "Open Weather Api",
-        "카카오 맵 Api 사용",
-        "Composition api Optional api 리팩토링",
-        "Vuex : 데이터 관리 가공 작업"],
+        info: [ "Composition api 리팩토링",
+        "Vuex 데이터 관리 가공 작업",
+        "Open Weather Api 구현",
+        "카카오 맵 Api 사용 전국 날씨 표현"],
     },
     {
         bgcolor: "#7f7f7f",
@@ -126,7 +126,7 @@ export const projectData = [
 ];
 
 export const contactData = [
-    { icon: "🐙", label: "GitHub", detail: "github.com/heeyonhh", url: "https://github.com/heeyonhh/react_intro_project"},
+    { icon: "🐙", label: "GitHub", detail: "github.com/heeyonhh", url: "https://github.com/heeyonhh/fe"},
     { icon: "✉️", label: "Email", detail: "lightram23@gmail.com", url: null },
     { icon: "📱", label: "Phone", detail: "010 7271 6432", url: null },
   ];
