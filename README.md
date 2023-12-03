@@ -43,6 +43,9 @@ Software & Design Tool
 
 
 
+
+
+
 # 프로젝트 2. Vue3 & Sass 날씨 앱
 
 ## https://heeweather.netlify.app/
@@ -76,6 +79,9 @@ Software & Design Tool
 
 
 
+
+
+
 # 프로젝트 3. 넥센타이어 반응형 웹사이트
 
 ## https://heeyonhh.github.io/Responsive_design/
@@ -105,6 +111,9 @@ Software & Design Tool
 
 
 
+
+
+
 # 프로젝트 4. 화성시 보건소 사이트
 
 ## https://heeyonhh.github.io/jquery_design/
@@ -130,6 +139,9 @@ Frameworks & Library
 Software & Design Tool
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+
+
 
 
 
@@ -165,7 +177,8 @@ Software & Design Tool
 
 
 
-# 프로젝트 6. HEEFOLIO : Heeyon Kim Portfolio made with React
+
+# 프로젝트 6. HEEFOLIO : Heeyon Kim Portfolio React
 
 ## https://heefolio.netlify.app/
 
