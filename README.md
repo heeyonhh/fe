@@ -1,4 +1,4 @@
-# 프로젝트 1. 플라토 커피 주문 앱 made with React
+# 프로젝트 1. 플라토 커피 주문 앱 React PWA
 
 ## https://platocoffee.netlify.app/
 
@@ -67,6 +67,7 @@ Software & Design Tool
 
 Frameworks & Library
 
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 Software & Design Tool
 
