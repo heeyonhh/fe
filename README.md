@@ -180,7 +180,7 @@ Software & Design Tool
 
 # 프로젝트 6. HEEFOLIO : Heeyon Kim Portfolio React
 
-## https://heefolio.netlify.app/
+## https://heeyonkim.netlify.app/
 
 ## now repo
 
